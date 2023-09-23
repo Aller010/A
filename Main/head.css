@@ -1,0 +1,42 @@
+.head{
+    width: 100%;
+    margin-top: 50px;
+    padding: 20px 0;
+    background-color: #9acd32;
+    
+}
+
+.head-cont{
+    padding: 40px 0;
+    text-align: center;
+}
+
+.head-cont p{
+    font-size: 21px;
+    margin: 15px 0;
+    color: #adff2f;
+}
+
+.head-cont h1{
+    font-size: 63px;
+    font-weight: 200;
+    color: #adff2f;
+}
+
+.head-cont button{
+    background-color: #337ab7;
+    border: 1px solid #2e6da4;
+    color: white;
+}
+
+.head-cont button:hover{
+    background-color: #286090;
+    border: 1px solid #204d74;
+    color: white;
+}
+
+.head-cont button:focus{
+    background-color: #286090;
+    border: 1px solid #204d74;
+    color: white;
+}

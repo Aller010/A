@@ -1,0 +1,110 @@
+.content{
+    padding: 40px 0;
+}
+
+.main-cont{
+    text-align: center;
+}
+
+.main-cont h2{
+    font-size: 36px;
+    font-weight: 200;
+}
+
+.main-cont span{
+    font-weight: 200;
+    font-size: 60%;
+    color: #777;
+}
+
+.main-cont p{
+    padding-top: 10px;
+    color: #959595;
+    line-height: 1.5;
+}
+
+.cont-main{ 
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+
+.main-item{
+    width: 360px;
+}
+
+.cont-main .main-item > a > img{
+    height: 300px;
+    max-width: 100%;
+}
+
+.items-cont{
+    text-align: center;
+    margin: 15px auto 30px;
+}
+
+.items-cont h2{
+    margin: 10px 0;
+    font-size: 24px;
+    font-weight: 200;
+}
+
+.items-cont p{
+    line-height: 1.5;
+}
+
+.text{
+    color: #959595;
+}
+
+
+.circles{
+    width: 100%;
+    background-color: #daa520;
+    padding: 40px 0;
+}
+
+.circles-inline{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.circles-item .circles-photo {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    background-color: #bbb4b4;
+}
+
+.circles-item{
+    width: 390px;
+    height: 100%;
+    text-align: center;
+    padding: 0 30px;
+}
+
+.circles-cont h2{
+    margin-top: 20px;
+    font-weight: 200;
+    font-size: 24px;
+}
+
+.circles-cont p{
+    line-height: 1.5;
+    font-weight: 200;
+    padding: 10px 0;
+}
+
+.circles-item button{
+    border: 1px solid transparent;
+    background-color: #fff;
+    border-color: #ccc;
+}
+
+.circles-item button:hover{ 
+    background-color: #e6e6e6;
+    border-color: #adadad;
+}

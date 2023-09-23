@@ -1,0 +1,35 @@
+*,*::after,*::before{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    
+}
+
+body{
+    min-width: 500px;
+    width: 100vw;
+    height: 100vh;
+    font-family: "Helvetica Neue", sans-serif;
+    overflow-x: hidden;
+    font-size: 14px;
+    
+}
+
+a{ text-decoration: none;
+    color: #337ab7;
+}
+
+ul{ 
+    list-style-type: none;
+}
+
+button,input{
+    border: 1px solid transparent;
+    padding: 0;
+    margin: 0;
+}
+
+h1,h2,h3,h4,h5,h6{ 
+    padding: 0;
+    margin: 0;
+}
